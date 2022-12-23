@@ -1,5 +1,13 @@
 # MoonWatch Movie App
 
+1.To run the server side 
+- cd server (go to the server folder)
+- run: npm start (nodemon index.js should start with the message "Server is listening on port 5000") 
+
+2.To run the client side
+- cd client (go to the client folder)
+- run: npm start (should open app on localhost:3000)
+
 # Resource
 
 [Create React App](https://create-react-app.dev/)<br>
