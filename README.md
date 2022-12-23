@@ -1,4 +1,4 @@
-# MoonWatcj
+# MoonWatch Movie App
 
     Fullstack Responsive Movie Website
 
@@ -15,10 +15,3 @@
 [Axios](https://axios-http.com/)<br>
 [Swiper](https://swiperjs.com/)<br>
 [JWT](https://github.com/auth0/node-jsonwebtoken)<br>
-
-# Preview
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322539-8fcd83e1-8424-4922-980c-91d20cdf761c.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322676-cbf56b14-8e23-4622-bbd9-76e6cbe619a8.png "Fullstack Responsive Movie Website 2022")
-
