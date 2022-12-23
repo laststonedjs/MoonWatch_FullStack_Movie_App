@@ -1,7 +1,5 @@
 # MoonWatch Movie App
 
-    Fullstack Responsive Movie Website
-
 # Resource
 
 [Create React App](https://create-react-app.dev/)<br>
