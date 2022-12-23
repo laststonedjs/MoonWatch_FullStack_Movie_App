@@ -13,3 +13,8 @@
 [Axios](https://axios-http.com/)<br>
 [Swiper](https://swiperjs.com/)<br>
 [JWT](https://github.com/auth0/node-jsonwebtoken)<br>
+
+# Summary
+
+Implemented the ability to change the theme (dark and light), colors configured in theme.configs.js. 
+Ability to search for movies and TV series fetched via the themovieDB api. Configured endpoints on the server side for displaying movies and series by category (popular, top rated, favorites).
