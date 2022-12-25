@@ -8,6 +8,9 @@
 - cd client (go to the client folder)
 - run: npm start (should open app on localhost:3000)
 
+# Website URL
+https://moon-watch-tmdbi.netlify.app/
+
 # Resource
 
 [Create React App](https://create-react-app.dev/)<br>
