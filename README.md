@@ -24,6 +24,7 @@
 
 # Summary
 
-Implemented the ability to change the theme (dark and light), colors configured in theme.configs.js. 
-Ability to search for movies and TV series fetched via the themovieDB api. Configured endpoints on the server side for displaying movies and series by category (popular, top rated, favorites).
-Made it possible to "Sign In" and "Sign Up" by the user so that could have the option of adding the "favorites" option for certain movies or shows.
+Implemented the ability to switch between themes (Dark & Light), theme colors configured in "theme.configs.js" file. 
+Ability to search for Movies and TV Shows fetched data from the "TheMovieDB" website. 
+Configured endpoints on the server side for displaying movies and shows by category (popular, top rated, favorites).
+Made auth options for "SignIn" and "SignUp", the Logged-in User has the option of adding content(movies & shows) to his favorites so that he can remember and watch it maybe later.
