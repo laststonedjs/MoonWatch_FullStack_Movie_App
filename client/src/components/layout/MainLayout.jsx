@@ -1,12 +1,15 @@
-import { Box } from "@mui/material";
+import { useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
 import { Outlet } from "react-router-dom";
+// components
 import Footer from "../common/Footer";
 import GlobalLoading from "../common/GlobalLoading";
 import Topbar from "../common/Topbar";
 import AuthModal from "../common/AuthModal";
-import { useDispatch, useSelector } from "react-redux";
-import { useEffect } from "react";
+// assets
+import { Box } from "@mui/material";
 import { toast } from "react-toastify";
+// api
 import userApi from "../../api/modules/user.api";
 import favoriteApi from "../../api/modules/favorite.api";
 import { setListFavorites, setUser } from "../../redux/features/userSlice";
@@ -42,6 +45,7 @@ const MainLayout = () => {
   return (
     <>
       <GlobalLoading />
+
       {/* login modal */}
       <AuthModal />
       {/* login modal */}
